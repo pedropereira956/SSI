@@ -1,0 +1,13 @@
+# Ficheiros gerados automaticamente
+mensagens_offline.json
+certificados.json
+grupos.json
+*.pgp
+__pycache__/
+*.pyc
+
+# Chaves privadas (NUNCA para o git!)
+chaves_privadas/
+
+# Ficheiro de teste temporário
+servidor_falso.py
